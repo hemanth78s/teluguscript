@@ -1,5 +1,5 @@
-who r u
-iam hemanth
-kumar
-who ro
-sare le
+#! /bin/bash
+na peru narasimha 
+inti per narasimha
+ma per
+nee peru
